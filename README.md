@@ -20,7 +20,7 @@ The dataset is obtained from the Humanitarian Data Exchange and contains informa
 
 # Links
 - Streamlit App: (add after deployment)
-- GitHub Repository: (this repository)
+- GitHub Repository: (https://github.com/rishmi20232885-rgb/cerf-dashboard)
 
 # Author
 Rishmi Perera
