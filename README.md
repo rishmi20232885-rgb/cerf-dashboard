@@ -19,7 +19,7 @@ The dataset is obtained from the Humanitarian Data Exchange and contains informa
    streamlit run app.py
 
 # Links
-- Streamlit App: (add after deployment)
+- Streamlit App: (https://cerf-dashboard-nnxjrmpyyjaryzyh3wfzdc.streamlit.app/)
 - GitHub Repository: (https://github.com/rishmi20232885-rgb/cerf-dashboard)
 
 # Author
